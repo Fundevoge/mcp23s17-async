@@ -13,7 +13,7 @@ readme = "README.md"
 # homepage = "https://docs.rs/mcp23s17-async/"
 repository = "https://github.com/Fundevoge/mcp23s17-async/"
 keywords = ["MCP23S17", "embedded-hal-async", "async"]
-categories = ["hardware-support", "embedded", "no-std", "async"]
+categories = ["hardware-support", "embedded", "no-std"]
 
 [dependencies]
 embedded-hal-async = "1.0.0"
