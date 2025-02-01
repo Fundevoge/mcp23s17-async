@@ -1,4 +1,4 @@
-//! # MCP23S17 driver
+//! # Async MCP23S17 driver
 //!
 //! ![Crates.io](https://img.shields.io/crates/v/mcp23s17-async)
 //! ![Crates.io](https://img.shields.io/crates/d/mcp23s17-async)
